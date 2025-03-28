@@ -93,9 +93,9 @@ Call the bKash.reconfigure(paymentRequest) function for passing the 'paymentRequ
 i.e. mWebView.loadUrl("javascript:callReconfigure(" + paymentRequest + " )");
  
  ```
-               function callReconfigure(val){
+bkash payment text sms mobile phone                function callReconfigure(val){
                      bKash.reconfigure(val);
-                     }
+                     }master
 ```
 
 
